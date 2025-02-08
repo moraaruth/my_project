@@ -14,4 +14,5 @@ $has_kids = true;
 
 echo $name;
 echo $has_kids;
+echo $name . 'is' . $age . 'years old';
 ?>
