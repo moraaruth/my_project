@@ -1,5 +1,6 @@
 <?php
  echo 'hello123';
+ print 123;
 ?>
 
 <!DOCTYPE html>
@@ -14,3 +15,4 @@
     
 </body>
 </html>
+
