@@ -13,7 +13,7 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1><?php echo 'Post One' ?></h1>
 </body>
 </html>
 
