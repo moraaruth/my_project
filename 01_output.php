@@ -1,6 +1,7 @@
 <?php
  echo 'hello123';
  print 123;
+ print_r(["print", "arrays"])
 ?>
 
 <!DOCTYPE html>
