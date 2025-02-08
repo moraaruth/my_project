@@ -14,6 +14,7 @@
 </head>
 <body>
     <h1><?php echo 'Post One' ?></h1>
+    <h2><?=  "Post two";?></h2>
 </body>
 </html>
 
