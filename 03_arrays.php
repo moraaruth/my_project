@@ -19,8 +19,16 @@ $hex = [
 
 //multidimensional arrays
 $people = [
-    'first_name' => 'Ruth',
-    'last_name' => 'Moraa',
-    'email'
+  
+    [
+        'first_name' => 'Ruth',
+        'last_name' => 'Moraa',
+        'email' => 'moraacodes@gmail.com'
+    ],
+    [
+        'first_name' => 'Ruth',
+        'last_name' => 'Moraa',
+        'email' => 'moraacodes@gmail.com'
+    ],
 ];
 ?>
