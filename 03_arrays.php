@@ -26,6 +26,11 @@ $people = [
         'email' => 'moraacodes@gmail.com'
     ],
     [
+        'first_name' => 'Dakari',
+        'last_name' => 'Imani',
+        'email' => 'dakariimani@gmail.com'
+    ],
+    [
         'first_name' => 'Ruth',
         'last_name' => 'Moraa',
         'email' => 'moraacodes@gmail.com'
