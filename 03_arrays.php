@@ -39,5 +39,5 @@ $people = [
 
 // print_r( $people);
 // echo $people[1]['email']
-var_dump(json_encode($people))
+var_dump(json_encode($people));
 ?>
