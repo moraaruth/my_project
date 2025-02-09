@@ -37,5 +37,6 @@ $people = [
     ],
 ];
 
-print_r( $people)
+// print_r( $people);
+echo $people[1]['email']
 ?>
