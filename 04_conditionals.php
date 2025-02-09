@@ -27,6 +27,9 @@ $t = date("H");
 
 if($t < 12) {
     echo 'Good morning';
+} elseif($t < 17) {
+    echo 'Good afternoon';
+
 } else {
     echo 'Good evening';
 }
