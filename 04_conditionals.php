@@ -35,5 +35,6 @@
 // }
 
 //conditional arrays
+$posts = ['First Post'];
 
 ?>
