@@ -62,6 +62,13 @@ switch($favcolor){
     case 'red':
         echo 'Your favourite color is red';
         break;
-
+     case 'blue':
+        echo 'Your favourite color is blue';
+        break;
+    case 'green':
+        echo 'Your favourite color is green';
+        break;
+    default: 
+        echo 'your favourite color is not red, blue or green';
 }
 ?>
