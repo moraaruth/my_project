@@ -23,14 +23,17 @@
 //     echo 'you are too young, go home';
 // }
 
-$t = date("H");
+// $t = date("H");
 
-if($t < 12) {
-    echo 'Good morning';
-} elseif($t < 17) {
-    echo 'Good afternoon';
+// if($t < 12) {
+//     echo 'Good morning';
+// } elseif($t < 17) {
+//     echo 'Good afternoon';
 
-} else {
-    echo 'Good evening';
-}
+// } else {
+//     echo 'Good evening';
+// }
+
+//conditional arrays
+
 ?>
