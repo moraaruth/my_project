@@ -5,4 +5,5 @@ $fruits = array ("apple", "melon", "lemon");
 
 echo $numbers;
 print_r($fruits);
+echo $fruits[1];
 ?>
