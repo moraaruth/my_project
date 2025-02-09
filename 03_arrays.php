@@ -36,4 +36,6 @@ $people = [
         'email' => 'moraacodes@gmail.com'
     ],
 ];
+
+print_r( $people)
 ?>
