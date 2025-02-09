@@ -37,7 +37,7 @@
 //conditional arrays
 $posts = ['First Post'];
 
-if(empty($posts)){
+if(!empty($posts)){
     echo $posts[0];
 }
 
