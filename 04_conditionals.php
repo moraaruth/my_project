@@ -48,5 +48,6 @@
 
 $firstPost = !empty($posts) ? $posts[0] : 'No post';
 
-echo $firstPost;
+// echo $firstPost;
+// coalescing operator
 ?>
