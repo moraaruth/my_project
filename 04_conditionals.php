@@ -35,7 +35,7 @@
 // }
 
 //conditional arrays
- $posts = ['First Post'];
+ $posts = ['mayon'];
 
 // if(!empty($posts)){
 //     echo $posts[0];
@@ -50,4 +50,7 @@ $firstPost = !empty($posts) ? $posts[0] : 'No post';
 
 // echo $firstPost;
 // coalescing operator
+
+$first_post = $posts[0] ?? null;
+echo $first_post
 ?>
