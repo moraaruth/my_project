@@ -35,10 +35,12 @@
 // }
 
 //conditional arrays
-// $posts = ['First Post'];
+ $posts = ['First Post'];
 
 // if(!empty($posts)){
 //     echo $posts[0];
 // }
 //iternary operator
+
+echo !empty($posts) ? $posts[0] : 'No post';
 ?>
