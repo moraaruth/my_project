@@ -23,7 +23,9 @@
 //     echo 'you are too young, go home';
 // }
 
-$t = date("F");
+$t = date("H");
 
-echo $t;
+if($t < 12) {
+    echo 'Good morning';
+}
 ?>
