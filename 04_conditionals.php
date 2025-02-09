@@ -35,10 +35,10 @@
 // }
 
 //conditional arrays
-$posts = ['First Post'];
+// $posts = ['First Post'];
 
-if(!empty($posts)){
-    echo $posts[0];
-}
-
+// if(!empty($posts)){
+//     echo $posts[0];
+// }
+//iternary operator
 ?>
