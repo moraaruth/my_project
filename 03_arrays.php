@@ -14,4 +14,6 @@ $hex = [
     'blue' => "0f0",
     'green' => "#oof"
 ];
+
+echo $hex['blue'];
 ?>
