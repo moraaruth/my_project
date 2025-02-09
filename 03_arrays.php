@@ -3,9 +3,9 @@
 $numbers = [1,44,55,322];
 $fruits = array ("apple", "melon", "lemon");
 
-echo $numbers;
-print_r($fruits);
-echo $fruits[1];
+// echo $numbers;
+// print_r($fruits);
+// echo $fruits[1];
 
 //associative arrays
 
@@ -15,5 +15,12 @@ $hex = [
     'green' => "#oof"
 ];
 
-echo $hex['blue'];
+// echo $hex['blue'];
+
+//multidimensional arrays
+$people = [
+    'first_name' => 'Ruth',
+    'last_name' => 'Moraa',
+    'email'
+];
 ?>
