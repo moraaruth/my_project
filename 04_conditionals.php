@@ -42,5 +42,11 @@
 // }
 //iternary operator
 
-echo !empty($posts) ? $posts[0] : 'No post';
+// echo !empty($posts) ? $posts[0] : 'No post';
+
+// using a variable to check for condition
+
+$firstPost = !empty($posts) ? $posts[0] : 'No post';
+
+echo $firstPost;
 ?>
