@@ -15,9 +15,11 @@
 //     code to be excuted if condtion is true
 // }
 
-$age = 30;
+$age = 15;
 
 if($age >= 18){
     echo 'You are old enough to vote';
+} else {
+    echo 'you are too young, go home'
 }
 ?>
