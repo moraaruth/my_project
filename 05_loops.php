@@ -7,7 +7,7 @@
 
 
 for($x = 0; $x <= 100; $x++){
-    echo $x;
+    echo 'Number ' . $x . 'br';
 }
 
 ?>
