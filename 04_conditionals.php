@@ -56,7 +56,7 @@ $firstPost = !empty($posts) ? $posts[0] : 'No post';
 
 // switch for conditionals
 
-$favcolor = "red";
+$favcolor = "blue";
 
 switch($favcolor){
     case 'red':
