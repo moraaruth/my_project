@@ -6,8 +6,8 @@
 // }
 
 
-for($x = 0; $x <= 100; $x++){
-    echo 'Number ' . $x . 'br';
+for($x = 0; $x <= 10; $x++){
+    echo 'Number ' . $x . '<br>';
 }
 
 ?>
